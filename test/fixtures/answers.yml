@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  participant: one
+  survey: one
+  question_id: MyString
+  integer: MyString
+  answered: MyString
+  bool: MyString
+
+two:
+  participant: two
+  survey: two
+  question_id: MyString
+  integer: MyString
+  answered: MyString
+  bool: MyString
